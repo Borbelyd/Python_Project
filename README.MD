@@ -29,3 +29,5 @@ Az alkalmazás méri a felhasználó gépelési idejét, és elmenti a legjobb i
 - **Indítás:** `main.py`  
 - **Alapablak:** `root`  
 - **Programnév:** `app` 
+
+AI segített a README.MD megformázásában.
